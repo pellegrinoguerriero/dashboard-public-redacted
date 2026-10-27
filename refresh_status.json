@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "status": "success",
-  "generated_at": "2026-10-27T08:42:22+00:00",
+  "generated_at": "2026-10-27T10:03:02+00:00",
   "planning_year": 2026,
-  "source_commit": "836e22f8f92358693dce56b73b6dd186ec9cce5c",
+  "source_commit": "ea940cca8f2129e3c8563731620b5d2a22755f87",
   "workflow": "RMS Dashboard — Build & Deploy",
-  "workflow_run_id": "40474512004",
+  "workflow_run_id": "40484497403",
   "workflow_run_attempt": "1"
 }
